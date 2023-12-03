@@ -1,0 +1,81 @@
+/* Base styles */
+.logo {
+}
+
+.logo-dark {
+  color: black;
+}
+
+.logo-light {
+  color: white;
+}
+
+/* Base styles */
+
+/* Header section */
+.header {
+}
+
+.header-nav {
+}
+
+.header-list {
+}
+
+.header-item {
+}
+
+.header-link {
+  color: #2e2f42;
+}
+
+.header-link:hover,
+.header-link:focus{
+  color: #404bbf;
+}
+
+.header-link:active {
+  color: #404bbf;
+}
+
+.contacts {
+}
+
+.contacts-item {
+}
+
+.contacts-link {
+  color: #434455;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
+
+/* Header section */
+.hero {
+}
+
+.hero-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+
+.hero-button:hover
+.hero-button:focus {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+/* Hero section */
+
+/* Hero section */
+
+/* Footer section */
+.footer {
+}
+
+.footer-text {
+}
+
+/* Footer section */

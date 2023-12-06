@@ -10,6 +10,9 @@
   color: white;
 }
 
+a {
+  text-decoration: none;
+}
 /* Base styles */
 
 /* Header section */
@@ -54,10 +57,13 @@
 }
 
 /* Header section */
+
+/* Hero section */
 .hero {
 }
 
 .hero-button {
+  font-family: Roboto;
   background-color: #4d5ae5;
   color: #ffffff;
 }
@@ -69,7 +75,46 @@
 }
 /* Hero section */
 
-/* Hero section */
+/* Portfolio section */
+.portfolio {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-item-title {
+}
+.portfolio-item-text {
+}
+/* Portfolio section */
+
+/* Team section */
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-item-title {
+}
+.team-item-text {
+}
+/* Team section */
+
+/* Our Portfolio section */
+.ourpotfolio-title {
+}
+.ourpotfolio-list {
+}
+.ourpotfolio-item {
+}
+.ourpotfolio-item-title {
+}
+.ourpotfolio-item-text {
+}
+/* Our Portfolio section */
 
 /* Footer section */
 .footer {

@@ -132,7 +132,8 @@ button {
   letter-spacing: 0.04em;
 }
 
-.hero-button:hover .hero-button:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404bbf;
   color: #ffffff;
 }

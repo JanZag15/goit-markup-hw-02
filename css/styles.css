@@ -164,11 +164,11 @@ button {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
+/* .team-list {
+} */
+.team-item {
   background-color: #ffffff;
 }
-/* .team-item {
-} */
 .team-item-title {
   color: #2e2f42;
   text-align: center;

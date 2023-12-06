@@ -90,8 +90,9 @@ button {
   color: #404bbf;
 }
 
-/* .contacts {
-} */
+.contacts {
+  font-style: normal;
+}
 
 /* .contacts-item {
 } */

@@ -162,10 +162,11 @@ button {
 
 /* Team section */
 .team {
+  background-color: #f4f4fd;
+}
+.team-list {
   background-color: #ffffff;
 }
-/* .team-list {
-} */
 /* .team-item {
 } */
 .team-item-title {
